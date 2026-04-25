@@ -46,3 +46,5 @@ If your skill only makes sense for a specific workflow, it's a marketplace candi
 ---
 
 > **Personal fork note:** I'm using this primarily for learning and local automation experiments. I don't plan to upstream most of my changes — this checklist is here as a reference in case I do.
+>
+> **My local experiments so far:** home directory file organization, a simple calendar-to-task skill, and a Obsidian vault search wrapper. None of these are upstream candidates.
