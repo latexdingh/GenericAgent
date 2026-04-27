@@ -12,6 +12,8 @@
 ---
 
 > **Personal fork note:** I'm using this with the Gemini API. See my setup notes in `docs/my-setup.md`.
+>
+> **Model in use:** `gemini-2.0-flash` — good balance of speed and capability for daily tasks. Switch to `gemini-2.5-pro` for more complex multi-step workflows.
 
 <a name="english"></a>
 ## 🌟 Overview
@@ -37,6 +39,5 @@ Every time GenericAgent solves a new task, it automatically crystallizes the exe
 This is what fundamentally distinguishes GenericAgent from every other agent framework.
 
 ```
-[New Task] --> [Autonomous Exploration] (install deps, write scripts, debug & verify) -->
-[Crystallize Execu
+[N
 ```
